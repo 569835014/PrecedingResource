@@ -1,14 +1,517 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d33d8b8-2032-4d23-8d67-2734d13ad9ea" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/util/js/moment/moment.js" />
+    <list default="true" id="5d33d8b8-2032-4d23-8d67-2734d13ad9ea" name="Default" comment="" />
+    <list id="df99237d-0731-448e-8d73-d7094a0bee02" name="Rejected commit: Default" comment="动画js">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/bigplay.fw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/bigplay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/controls-ted.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/controls-wmp-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/controls-wmp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/controls.fw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/controls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/flashmediaelement-cdn.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/flashmediaelement-debug.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/flashmediaelement.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/jumpforward.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/silverlightmediaelement.xap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/skipback.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/media/echo-hereweare.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/media/echo-hereweare.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/media/other.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/css/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/css/bigplay.fw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/css/bigplay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/css/controls-ted.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/css/controls-wmp-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/css/controls-wmp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/css/controls.fw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/css/controls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/css/jumpforward.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/css/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/css/skipback.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/flash/FlashMediaElement.fla" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/flash/flashls.swc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/flash/flashmediaelement.swc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/glyphicons/flat-ui-pro-icons-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/glyphicons/flat-ui-pro-icons-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/glyphicons/flat-ui-pro-icons-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/lato/lato-black.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/lato/lato-black.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/lato/lato-black.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/lato/lato-bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/lato/lato-bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/lato/lato-bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/lato/lato-bolditalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/lato/lato-bolditalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/lato/lato-bolditalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/lato/lato-italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/lato/lato-italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/lato/lato-italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/lato/lato-light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/lato/lato-light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/lato/lato-light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/lato/lato-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/lato/lato-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/lato/lato-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/img/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/js/vendor/video-js.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/carousel/image-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/carousel/image-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/carousel/image-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/exaple-image.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/getting-started/icomoon_import.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/video/poster.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/glyphicons/flat-ui-pro-icons-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/glyphicons/flat-ui-pro-icons-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/glyphicons/flat-ui-pro-icons-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/lato/lato-black.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/lato/lato-black.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/lato/lato-black.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/lato/lato-bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/lato/lato-bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/lato/lato-bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/lato/lato-bolditalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/lato/lato-bolditalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/lato/lato-bolditalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/lato/lato-italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/lato/lato-italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/lato/lato-italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/lato/lato-light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/lato/lato-light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/lato/lato-light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/lato/lato-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/lato/lato-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/lato/lato-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/img/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/DO NOT CHANGE THESE FILES. USE -src- FOLDER.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/bigplay.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/controls.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/mediaelement-and-player.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/mediaelement-and-player.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/mediaelement.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/mediaelement.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/mediaelementplayer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/mediaelementplayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/mediaelementplayer.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/mediaelementplayer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/build/mejs-skins.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/changelog.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/demo/hls_streams.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/demo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/demo/mediaelement-stream.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/demo/mediaelement.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/demo/mediaelementplayer-audio.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/demo/mediaelementplayer-events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/demo/mediaelementplayer-frameaccurate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/demo/mediaelementplayer-hls.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/demo/mediaelementplayer-inflash-autoresize.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/demo/mediaelementplayer-postroll-content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/demo/mediaelementplayer-postroll.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/demo/mediaelementplayer-responsive.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/demo/mediaelementplayer-skins.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/demo/mediaelementplayer-sourcechooser.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/demo/mediaelementplayer-src.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/demo/mediaelementplayer-track.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/demo/mediaelementplayer-youtube.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/demo/mediaelementplayer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/demo/testforfiles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/media/mediaelement.srt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/player.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/css/bigplay.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/css/controls.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/css/mediaelementplayer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/css/mejs-skins.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/flash/FlashMediaElement.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/flash/HtmlMediaEvent.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/flash/htmlelements/AudioElement.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/flash/htmlelements/DailyMotionElement.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/flash/htmlelements/HLSMediaElement.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/flash/htmlelements/IMediaElement.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/flash/htmlelements/VideoElement.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/flash/htmlelements/YouTubeElement.as" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/jeesh-extras.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/jeesh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/me-featuredetection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/me-header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/me-i18n-locale-de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/me-i18n-locale-es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/me-i18n-locale-fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/me-i18n-locale-it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/me-i18n-locale-ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/me-i18n-locale-ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/me-i18n-locale-pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/me-i18n-locale-zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/me-i18n-locale-zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/me-i18n.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/me-mediaelements.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/me-namespace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/me-plugindetector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/me-shim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/me-utility.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/mep-feature-ads-vast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/mep-feature-ads.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/mep-feature-backlight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/mep-feature-contextmenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/mep-feature-endedhtml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/mep-feature-fullscreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/mep-feature-googleanalytics.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/mep-feature-jumpforward.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/mep-feature-loop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/mep-feature-playlist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/mep-feature-playpause.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/mep-feature-postroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/mep-feature-progress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/mep-feature-skipback.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/mep-feature-sourcechooser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/mep-feature-speed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/mep-feature-stop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/mep-feature-time.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/mep-feature-tracks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/mep-feature-universalgoogleanalytics.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/mep-feature-visualcontrols.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/mep-feature-volume.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/mep-header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/mep-library.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/mep-player.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/silverlight/App.xaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/silverlight/App.xaml.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/silverlight/MainPage.xaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/silverlight/MainPage.xaml.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/silverlight/Properties/AppManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/silverlight/Properties/AssemblyInfo.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/silverlight/SilverlightMediaElement.csproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/silverlight/SilverlightMediaElement.csproj.user" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/silverlight/SilverlightMediaElement.sln" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/test/Spec-CreateRemove.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/test/Spec-Player.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/test/Spec-utility.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/test/SpecRunner-CreateRemove.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/test/SpecRunner-Player.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/test/SpecRunner-utility.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/test/lib/jasmine-1.3.1/MIT.LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/test/lib/jasmine-1.3.1/jasmine-html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/test/lib/jasmine-1.3.1/jasmine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/test/lib/jasmine-1.3.1/jasmine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/test/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/css/flat-ui-pro.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/css/flat-ui-pro.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/css/flat-ui-pro.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/css/vendor/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/glyphicons/flat-ui-pro-icons-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/glyphicons/selection.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/lato/lato-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/lato/lato-bold.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/lato/lato-bolditalic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/lato/lato-italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/lato/lato-light.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/fonts/lato/lato-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/js/flat-ui-pro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/js/flat-ui-pro.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/js/vendor/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/js/vendor/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/js/vendor/jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/js/vendor/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/dist/js/vendor/video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/css/docs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/css/docs.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/css/src/docs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/css/src/prettyprint.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/android.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/android1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/app-store.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/art.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/bag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/basket.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/book.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/bowling.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/box.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/brush.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/building.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/bulb.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/button.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/calculator.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/calendar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/camera.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/car.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/card.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/chair.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/chat.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/clipboard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/clocks.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/compas.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/converse.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/cup.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/dj.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/donut.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/dude.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/dynamite.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/earth.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/egg.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/eye.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/file.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/fit.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/flag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/flask.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/flower.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/games.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/gift-box.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/girl.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/goal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/google.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/graph.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/icecream.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/imac.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/ipad.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/iphone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/key.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/lettersymbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/lock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/loop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/macbook.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/magic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/magicmouse.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/mail.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/map.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/medal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/mic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/money.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/mortarboard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/mountain.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/news.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/paper-bag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/pc.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/pencil.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/pencils.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/picture.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/pig.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/pills.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/play.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/printer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/responsive.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/retina.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/ribbon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/ring.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/rocket.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/rss.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/safe.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/save.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/search.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/settings.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/shield.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/shirt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/skateboard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/spray.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/storage.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/support.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/ticket.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/toilet-paper.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/touch.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/trash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/trip-bag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/trunk.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/ubmrella.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/user-interface.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/video.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/weather.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/wi-fi.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/wine.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/img/icons/yinyang.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/js/application-docs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/js/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/assets/js/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/components.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/alerts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/bottom-menu-sticky.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/bottom-menu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/breadcrumbs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/carousel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/datatables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/datepicker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/dialog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/dropdowns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/fileinput.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/forms.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/iconbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/iconic-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/modal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/navbar-fixed-top.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/navbar-static-top.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/navbars-with-elements.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/navbars.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/navlists.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/pagination.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/panels.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/radiocheck.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/select.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/switches.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/tables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/tabs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/tagsinput.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/thumbnails.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/tiles.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/timepicker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/todo-list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/tooltips-popovers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/typography.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/examples/vertical-slider.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/getting-started.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/docs/template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/glyphicons/flat-ui-pro-icons-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/glyphicons/selection.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/lato/lato-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/lato/lato-bold.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/lato/lato-bolditalic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/lato/lato-italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/lato/lato-light.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/fonts/lato/lato-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/js/.jscs.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/js/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/js/fileinput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/js/radiocheck.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/.csscomb.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/.csslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/flat-ui-pro.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/background-clip.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/background-variant.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/border-radius.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/center-block.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/clearfix.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/dialogs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/gradients.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/hide-text.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/iconbars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/image.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/nav-divider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/navbar-vertical-align.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/opacity.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/reset-filter.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/resize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/responsive-visibility.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/select.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/size.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/spinners.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/switches.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/tab-focus.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/table-row.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/text-emphasis.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/text-overflow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/mixins/vendor-prefixes.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/badges.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/bottom-menu.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/breadcrumbs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/button-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/caret.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/code.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/datatables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/datepicker.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/dialog.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/dropdowns.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/file-input.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/glyphicons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/iconbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/iconic-list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/input-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/local-fonts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/modals.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/navs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/pager.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/popovers.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/print.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/progress-bars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/radiocheck.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/scaffolding.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/select.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/slider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/spinner.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/switch.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/tables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/tagsinput.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/thumbnails.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/tiles.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/timepicker.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/todo-list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/tooltip.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/type.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/typeahead.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/modules/video.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/spaces.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui/Flat-UI-Pro-1.3.2/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/util/js/moment/moment.min.js" afterPath="$PROJECT_DIR$/util/js/moment/moment.min.js" />
+    </list>
+    <list id="ec2fe59d-d35e-44f6-9e19-e0652fbfcb0a" name="Rejected commit: Rejected commit: Default" comment="动画js">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/fonts/Circular-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/fonts/Circular-Book.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/img/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/img/documentation/basic-anim.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/img/documentation/follow-path.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/img/documentation/multi-timings.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/img/documentation/playback-controls.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/img/documentation/random-values.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/img/documentation/specific-parameters.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/img/documentation/specific-values.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/img/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/img/og-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/sounds/Myon-Neutrino.m4a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/anime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/anime.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/3d-transforms.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/callbacks.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/colors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/dom-stress-test-multiple-animations.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/easings.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/functions-as-timing-values.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/logo-animation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/mgs-logo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/motion-path.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/playback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/random-multiple-values.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/remove-elements-from-animations.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/svg-path.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/examples/volume.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/anime-master/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +526,8 @@
     <favorites_list name="PrecedingResource" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="moment.js" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="moment.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/util/js/moment/moment.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -34,14 +537,64 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28">
+              <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="moment.min.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/util/js/moment/moment.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="112">
+              <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="anime.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/anime-master/anime.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3d-transforms.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/plugins/anime-master/examples/3d-transforms.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jeesh.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/jeesh.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="headroom.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/js/Headroom/headroom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -57,11 +610,18 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/util/js/moment/moment.js" />
+        <option value="$PROJECT_DIR$/util/js/moment/ccav.js" />
+        <option value="$PROJECT_DIR$/util/js/Headroom/headroom.js" />
+        <option value="$PROJECT_DIR$/util/js/moment/moment.min.js" />
       </list>
     </option>
   </component>
@@ -75,6 +635,22 @@
     <option name="x" value="8" />
     <option name="width" value="1913" />
     <option name="height" value="1041" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -91,6 +667,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -102,50 +680,27 @@
               <option name="myItemId" value="PrecedingResource" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="moment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PrecedingResource" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PrecedingResource" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/坚果云/sloid" />
     <property name="nodejs_interpreter_path" value="H:/kfrj/node/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="H:\kfrj\node\node.exe" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\git\PrecedingResource\util\js\moment" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git\PrecedingResource\plugins" />
+      <recent name="D:\git\PrecedingResource" />
     </key>
   </component>
   <component name="RunManager">
@@ -180,6 +735,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -213,33 +774,61 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1480777644311</updated>
-      <workItem from="1480777645822" duration="334000" />
+      <workItem from="1480777645822" duration="1465000" />
+      <workItem from="1480781785578" duration="4790000" />
+      <workItem from="1480789998592" duration="628000" />
+      <workItem from="1480790710829" duration="5589000" />
     </task>
+    <task id="LOCAL-00001" summary="flat ui">
+      <created>1480791825976</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1480791825976</updated>
+    </task>
+    <task id="LOCAL-00002" summary="搜索联系">
+      <created>1480805246607</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1480805246607</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="334000" />
+    <option name="totallyTimeSpent" value="12472000" />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="8" y="0" width="1913" height="1041" extended-state="1" />
+    <frame x="8" y="0" width="1913" height="1041" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24919957" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.49786553" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.50213444" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,11 +837,41 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="flat ui" />
+    <MESSAGE value="搜索联系" />
+    <MESSAGE value="动画js" />
+    <option name="LAST_COMMIT_MESSAGE" value="动画js" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/util/js/moment/moment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/js/moment/moment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/util/js/moment/moment.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -267,6 +886,83 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/js/moment/moment.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/js/moment/ccav.js" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/johndyer-mediaelement-播放器/src/js/jeesh.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/js/moment/moment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/js/Headroom/headroom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/js/moment/moment.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/anime-master/anime.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/anime-master/examples/3d-transforms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
           <folding />
         </state>
       </provider>
